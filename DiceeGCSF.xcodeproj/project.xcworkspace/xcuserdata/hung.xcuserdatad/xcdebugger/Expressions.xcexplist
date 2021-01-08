@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.onDiceRoll(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrImgNameAfterRandom">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.onDeerPressed(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrImgNameDoorIsChosen">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.handleIsDoorMatchWithDice():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "money">
+            </PersistentString>
+            <PersistentString
+               value = "arrImgNameAfterRandom">
+            </PersistentString>
+            <PersistentString
+               value = "moneyBet">
+            </PersistentString>
+            <PersistentString
+               value = "arrImgNameDoorIsChosen">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
