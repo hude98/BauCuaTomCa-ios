@@ -104,7 +104,7 @@ class ViewController : UIViewController,DiceDelegate {
     private func onTintColorChanged(imgView : UIImageView){
         imgView.image = imgView.image?.withRenderingMode(.alwaysTemplate)
         if(imgView.tintColor == UIColor.yellow){
-            imgView.tintColor = UIColor.systemGray2
+            imgView.tintColor = UIColor(red: 186/255, green: 181/255, blue: 170/255, alpha: 1.0)
         }
         else{
             imgView.tintColor = UIColor.yellow
@@ -152,7 +152,7 @@ class ViewController : UIViewController,DiceDelegate {
     
     
     func playSound() {
-        let url = Bundle.main.url(forResource: "poker_face", withExtension: "mp3")
+        let url = Bundle.main.url(forResource: "background_music", withExtension: "mp3")
         
         do {
             player = try AVAudioPlayer(contentsOf: url!)

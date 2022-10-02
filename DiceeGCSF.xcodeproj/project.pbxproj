@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B20D3D7C2532EF5C00E699EC /* poker_face.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B20D3D7B2532EF5C00E699EC /* poker_face.mp3 */; };
+		B20D3D7C2532EF5C00E699EC /* background_music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B20D3D7B2532EF5C00E699EC /* background_music.mp3 */; };
 		B28C08672451E82900A208A2 /* PopUpController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B28C08662451E82900A208A2 /* PopUpController.swift */; };
 		B28F893D246E3F6200F83401 /* UIViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B28F893C246E3F6200F83401 /* UIViewControllerExtension.swift */; };
 		B2CB04142408349800CB583F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2CB04132408349800CB583F /* Main.storyboard */; };
@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B20D3D7B2532EF5C00E699EC /* poker_face.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = poker_face.mp3; sourceTree = "<group>"; };
+		B20D3D7B2532EF5C00E699EC /* background_music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = background_music.mp3; sourceTree = "<group>"; };
 		B28C08662451E82900A208A2 /* PopUpController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpController.swift; sourceTree = "<group>"; };
 		B28F893C246E3F6200F83401 /* UIViewControllerExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewControllerExtension.swift; sourceTree = "<group>"; };
 		B2CB04132408349800CB583F /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
@@ -71,7 +71,7 @@
 				BD8AFD8223F4361A00991E89 /* LaunchScreen.storyboard */,
 				BD8AFD8523F4361A00991E89 /* Info.plist */,
 				B28F893C246E3F6200F83401 /* UIViewControllerExtension.swift */,
-				B20D3D7B2532EF5C00E699EC /* poker_face.mp3 */,
+				B20D3D7B2532EF5C00E699EC /* background_music.mp3 */,
 			);
 			path = DiceeGCSF;
 			sourceTree = "<group>";
@@ -137,7 +137,7 @@
 				BD8AFD8423F4361A00991E89 /* LaunchScreen.storyboard in Resources */,
 				B2CB04142408349800CB583F /* Main.storyboard in Resources */,
 				BD8AFD8123F4361A00991E89 /* Assets.xcassets in Resources */,
-				B20D3D7C2532EF5C00E699EC /* poker_face.mp3 in Resources */,
+				B20D3D7C2532EF5C00E699EC /* background_music.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
